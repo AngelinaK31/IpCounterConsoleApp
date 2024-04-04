@@ -1,0 +1,14 @@
+D:\VSProgs\IpConsoleApp\IpConsoleApp\bin\Debug\net8.0\IpConsoleApp.exe
+D:\VSProgs\IpConsoleApp\IpConsoleApp\bin\Debug\net8.0\IpConsoleApp.deps.json
+D:\VSProgs\IpConsoleApp\IpConsoleApp\bin\Debug\net8.0\IpConsoleApp.runtimeconfig.json
+D:\VSProgs\IpConsoleApp\IpConsoleApp\bin\Debug\net8.0\IpConsoleApp.dll
+D:\VSProgs\IpConsoleApp\IpConsoleApp\bin\Debug\net8.0\IpConsoleApp.pdb
+D:\VSProgs\IpConsoleApp\IpConsoleApp\obj\Debug\net8.0\IpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProgs\IpConsoleApp\IpConsoleApp\obj\Debug\net8.0\IpConsoleApp.AssemblyInfoInputs.cache
+D:\VSProgs\IpConsoleApp\IpConsoleApp\obj\Debug\net8.0\IpConsoleApp.AssemblyInfo.cs
+D:\VSProgs\IpConsoleApp\IpConsoleApp\obj\Debug\net8.0\IpConsoleApp.csproj.CoreCompileInputs.cache
+D:\VSProgs\IpConsoleApp\IpConsoleApp\obj\Debug\net8.0\IpConsoleApp.dll
+D:\VSProgs\IpConsoleApp\IpConsoleApp\obj\Debug\net8.0\refint\IpConsoleApp.dll
+D:\VSProgs\IpConsoleApp\IpConsoleApp\obj\Debug\net8.0\IpConsoleApp.pdb
+D:\VSProgs\IpConsoleApp\IpConsoleApp\obj\Debug\net8.0\IpConsoleApp.genruntimeconfig.cache
+D:\VSProgs\IpConsoleApp\IpConsoleApp\obj\Debug\net8.0\ref\IpConsoleApp.dll
